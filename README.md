@@ -16,20 +16,13 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 ### Focus
 
-<table>
-  <tr>
-    <td>Active Directory Security</td>
-    <td>Web Application Security</td>
-  </tr>
-  <tr>
-    <td>Internal Pentesting</td>
-    <td>Privilege Escalation</td>
-  </tr>
-  <tr>
-    <td>Lateral Movement</td>
-    <td>Realistic Lab Environments</td>
-  </tr>
-</table>
+<div align="center">
+
+`Active Directory Security` · `Web Application Security` · `Internal Pentesting`
+
+`Privilege Escalation` · `Lateral Movement` · `Realistic Lab Environments`
+
+</div>
 
 ---
 
