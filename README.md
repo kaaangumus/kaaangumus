@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="65%"/>
+<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="80%" />
 
 # Kaan Gümüş
 
@@ -32,7 +32,7 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="55%"/>
+<img src="https://media1.tenor.com/m/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="80%" />
 
 </div>
 
@@ -42,8 +42,8 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
