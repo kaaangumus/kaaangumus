@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="80%" />
+<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="80%" height="70%" />
 
 # Kaan Gümüş
 
