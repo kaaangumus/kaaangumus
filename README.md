@@ -42,8 +42,8 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=430" alt="Kaan's GitHub stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaaangumus&theme=tokyonight" alt="Kaan's GitHub stats" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaangumus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&card_width=320" alt="Kaan's most used languages" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaaangumus&theme=tokyonight" alt="Kaan's most used repository languages" height="165" />
 
 </div>
