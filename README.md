@@ -27,10 +27,6 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
   </tr>
   <tr>
     <td>Lateral Movement</td>
-    <td>Attack Surface Analysis</td>
-  </tr>
-  <tr>
-    <td>Adversary Simulation</td>
     <td>Realistic Lab Environments</td>
   </tr>
 </table>
@@ -39,7 +35,7 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 ## About Me
 
-Focused on developing offensive security capabilities in Active Directory and web environments through attack simulations, internal network assessments and continuous research.
+I focus on improving my offensive security skills through hands-on labs, web application testing and Active Directory practice. I enjoy understanding how systems work, finding weak points and documenting what I learn along the way.
 
 <div align="center">
 
