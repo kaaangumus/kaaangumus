@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="720" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" alt="Coding banner" width="640" height="360" />
 
-# Kaan Gümüş
+# Kaan G8m9f
 
 ### Red Teamer • Pentester • Offensive Security
 
@@ -32,7 +32,7 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img src="https://media.tenor.com/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="720" />
+<img src="https://media.tenor.com/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" alt="Mr. Robot fsociety banner" width="560" height="315" />
 
 </div>
 
@@ -42,8 +42,8 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=430" alt="Kaan's GitHub stats" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaangumus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&card_width=320" alt="Kaan's most used languages" height="165" />
 
 </div>
