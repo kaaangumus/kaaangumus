@@ -1,50 +1,49 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="65%"/>
 
 # Kaan Gümüş
 
-Offensive Security • Active Directory • Internal Operations
+### Red Teamer • Pentester • Offensive Security
+
+AD & Web Security focused cyber security specialist improving in offensive operations, internal network exploitation and realistic attack scenarios.
 
 </div>
 
 ---
 
-### About
+## Focus
 
-Offensive security focused on Active Directory environments, internal infrastructure exploitation and adversary simulation.
-
----
-
-### Focus
-
-- Active Directory
+- Active Directory Security
+- Web Application Security
 - Internal Pentesting
 - Privilege Escalation
 - Lateral Movement
-- Web Application Security
-- Enumeration & Attack Surface Mapping
+- Attack Surface Analysis
+- Adversary Simulation
 
 ---
 
-### Current Work
+## About Me
 
-Working on realistic lab environments, attack path analysis and offensive security research.
+Focused on developing offensive security capabilities in Active Directory and web environments through hands-on labs, attack simulations and real-world scenarios.
 
 ---
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="55%"/>
 
 </div>
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
