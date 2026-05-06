@@ -1,8 +1,8 @@
 <div align="center">
 
-# Kaan Gümüş
+## Kaan Gümüş
 
-### Red Teamer • Pentester • Offensive Security
+#### Red Teamer • Pentester • Offensive Security
 
 Cyber security specialist focused on Active Directory and Web Security, improving through offensive operations, realistic attack scenarios and hands-on lab environments.
 
@@ -14,7 +14,7 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 ---
 
-## Focus
+### Focus
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 ---
 
-## About Me
+### About Me
 
 I focus on improving my offensive security skills through hands-on labs, web application testing and Active Directory practice. I enjoy understanding how systems work, finding weak points and documenting what I learn along the way.
 
@@ -47,7 +47,7 @@ I focus on improving my offensive security skills through hands-on labs, web app
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
