@@ -28,7 +28,9 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 ### About Me
 
-I focus on improving my offensive security skills through hands-on labs, web application testing and Active Directory practice. I enjoy understanding how systems work, finding weak points and documenting what I learn along the way.
+I focus on improving my offensive security skills through hands-on labs, web application testing and Active Directory practice. I enjoy understanding how systems work, finding weak points and turning each finding into clear notes that I can revisit and improve over time.
+
+Most of my work is shaped around realistic scenarios, careful enumeration and practical research. I like building small tools, testing techniques in controlled environments and documenting what I learn so each project becomes a little more structured than the last.
 
 <div align="center">
 
