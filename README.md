@@ -1,95 +1,81 @@
-<h1 align="center">Kaan Gümüş</h1>
-<h3 align="center">Cyber Security Specialist | Red Team Operator | Offensive Security</h3>
+<div align="center">
 
-<p align="center">
-Focused on Active Directory Security, Internal Network Pentesting and Offensive Operations.
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J0dW0zN2s0a3h0ZDJpN3Z0aGR6ZmF6dHZhN2N4eTR5cThjZXc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
 
----
+# Kaan Gümüş
 
-# ⚔️ About Me
+### Offensive Security • Active Directory • Internal Pentesting
 
-Cyber security specialist focused on offensive security, adversary simulation and infrastructure exploitation.
-
-Experienced in:
-
-- Active Directory Attacks
-- Internal Network Pentesting
-- Web Application Security
-- Red Team Operations
-- Security Assessments
-- Attack Surface Analysis
-- Threat Detection & SIEM Technologies
-
-I continuously improve my skills through hands-on labs, real-world scenarios, research and offensive security environments.
+</div>
 
 ---
 
-# 🛠️ Arsenal
+## About Me
 
-## Operating Systems
+Focused on offensive security operations, internal infrastructure exploitation and Active Directory environments.
+
+Main interests:
+- Active Directory attack paths
+- Privilege escalation
+- Lateral movement
+- Internal network enumeration
+- Web application security
+- Red team methodologies
+
+---
+
+## Stack
+
+### Systems
 - Linux
 - Windows Server
-- Kali Linux
 
-## Languages & Scripting
+### Languages
 - Python
 - Bash
 - PowerShell
 
-## Security Tools
+### Tools
 - Burp Suite
 - BloodHound
 - Mimikatz
 - CrackMapExec
-- Metasploit
 - Nmap
+- Metasploit
 - Wireshark
-- Wazuh
-- Nessus
 
 ---
 
-# 🔴 Focus Areas
+## Labs & Operations
 
-- Active Directory Exploitation
-- Privilege Escalation
-- Lateral Movement
-- Web Security Testing
-- Network Enumeration
-- SIEM & Log Analysis
-- Red Team Methodologies
-
----
-
-# 📌 Projects
-
-- Active Directory Attack Lab
+- Active Directory Lab Environments
 - Internal Pentest Simulations
+- Attack Chain Scenarios
+- Enumeration Automation
 - Web Security Assessments
-- Wazuh SIEM Deployment
-- Detection & Monitoring Scenarios
+- Vulnerable Machine Writeups
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ1OXlyb3R2YjI2MjQ5M2NydDJ6YWQ3MDRrMjE1a2Q5b2JvNXJjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="85%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-# 🌐 Contact
+## GitHub Stats
 
-- LinkedIn: YOUR_LINKEDIN
-- Mail: YOUR_MAIL
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
 ```bash
-root@kaan:~# keep_learning --offensive-security
+root@kaan:~# keep_learning
