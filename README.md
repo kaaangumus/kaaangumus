@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" width="60%" height="50%" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="720" />
 
 # Kaan Gümüş
 
 ### Red Teamer • Pentester • Offensive Security
 
-AD & Web Security focused cyber security specialist improving in offensive operations, internal network exploitation and realistic attack scenarios.
+Cyber security specialist focused on Active Directory and Web Security, improving through offensive operations, realistic attack scenarios and hands-on lab environments.
 
 </div>
 
@@ -26,13 +26,13 @@ AD & Web Security focused cyber security specialist improving in offensive opera
 
 ## About Me
 
-Focused on developing offensive security capabilities in Active Directory and web environments through hands-on labs, attack simulations and real-world scenarios.
+Focused on developing offensive security capabilities in Active Directory and web environments through attack simulations, internal network assessments and continuous research.
 
 ---
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="80%" />
+<img src="https://media.tenor.com/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" width="720" />
 
 </div>
 
@@ -42,8 +42,8 @@ Focused on developing offensive security capabilities in Active Directory and we
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
 
 </div>
