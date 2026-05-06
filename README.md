@@ -8,7 +8,7 @@ Cyber security specialist focused on Active Directory and Web Security, improvin
 
 <br />
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" alt="Coding banner" width="620" height="349" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" alt="Coding banner" width="540" height="304" />
 
 </div>
 
@@ -34,7 +34,7 @@ I focus on improving my offensive security skills through hands-on labs, web app
 
 <br />
 
-<img src="https://media.tenor.com/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" alt="Mr. Robot fsociety banner" width="480" height="270" />
+<img src="https://media.tenor.com/Iie9bKPlwSAAAAAd/mr-robot-fsociety.gif" alt="Mr. Robot fsociety banner" width="400" height="225" />
 
 </div>
 
