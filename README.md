@@ -44,11 +44,6 @@ I focus on improving my offensive security skills through hands-on labs, web app
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaangumus&theme=tokyonight" alt="Kaan's GitHub profile summary" width="720" />
-
-<br />
-<br />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaaangumus&theme=tokyonight" alt="Kaan's GitHub stats" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaaangumus&theme=tokyonight" alt="Kaan's most used repository languages" height="165" />
 
