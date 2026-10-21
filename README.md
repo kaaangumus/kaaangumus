@@ -75,10 +75,11 @@ I test systems the way an attacker would — with permission, careful enumeratio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kalilinux,go,python,bash,flask,git,docker,burpsuite" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=linux,kali,go,python,bash,flask,git,docker" alt="Core stack" />
 
 <br/><br/>
 
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E7490?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1F6FEB?style=flat-square)
 ![Impacket](https://img.shields.io/badge/Impacket-6E40C9?style=flat-square)
