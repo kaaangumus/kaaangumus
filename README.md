@@ -1,21 +1,21 @@
-<picture>
+﻿<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" alt="Kaan Gümüş — Offensive Security" width="100%">
+  <img src="assets/banner-dark.svg" alt="Kaan GÃ¼mÃ¼ÅŸ â€” Offensive Security" width="100%">
 </picture>
 
 ### Offensive security practitioner focused on Active Directory, web applications, and internal networks.
 
 I build small tools for the repetitive parts of security assessments, and labs to understand the techniques behind them.
 
-`active directory` · `web security` · `internal pentesting` · `privilege escalation` · `bug bounty recon`
+`active directory` Â· `web security` Â· `internal pentesting` Â· `privilege escalation` Â· `bug bounty recon`
 
 ---
 
-## 01 — Selected Work
+## 01 â€” Selected Work
 
 <a href="https://github.com/kaaangumus/loxs">
-  <img align="right" width="470" src="assets/loxs-card.png" alt="LOXS 2.1.1 desktop interface">
+  <img align="right" width="470" src="assets/loxs-scan.png" alt="LOXS 2.1.1 desktop interface">
 </a>
 
 ### [LOXS 2.1.1](https://github.com/kaaangumus/loxs)
@@ -29,13 +29,13 @@ Built for fast, repeatable checks:
 - HTML, CSV, and JSON reports
 - Dark, responsive interface
 
-[Source](https://github.com/kaaangumus/loxs) · [Release](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1)
+[Source](https://github.com/kaaangumus/loxs) Â· [Release](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1)
 
 <br clear="right" />
 
 ---
 
-## 02 — Other Projects
+## 02 â€” Other Projects
 
 | # | Project | Focus | Stack |
 |:--|:--|:--|:--|
@@ -47,16 +47,17 @@ Built for fast, repeatable checks:
 
 ---
 
-## 03 — Toolkit
+## 03 â€” Toolkit
 
-**Offensive** — Active Directory · Web applications · Internal networks · Privilege escalation · Lateral movement  
-**Engineering** — Go · Java · JavaFX · Python · Bash  
-**Environment** — Kali Linux · Burp Suite · Git · Gradle
+**Offensive** â€” Active Directory Â· Web applications Â· Internal networks Â· Privilege escalation Â· Lateral movement  
+**Engineering** â€” Go Â· Java Â· JavaFX Â· Python Â· Bash  
+**Environment** â€” Kali Linux Â· Burp Suite Â· Git Â· Gradle
 
 ---
 
-## 04 — Contact
+## 04 â€” Contact
 
-[Website](https://kaangumus.ninja) · [GitHub](https://github.com/kaaangumus) · [LOXS](https://github.com/kaaangumus/loxs)
+[Website](https://kaangumus.ninja) Â· [GitHub](https://github.com/kaaangumus) Â· [LOXS](https://github.com/kaaangumus/loxs)
 
 <sub>Only test systems you own or have written authorization to assess.</sub>
+
