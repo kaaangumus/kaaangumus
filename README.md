@@ -8,13 +8,16 @@
   <a href="https://kaangumus.ninja">
     <img alt="Website" src="https://img.shields.io/badge/website-kaangumus.ninja-00ffc6?style=for-the-badge">
   </a>
+  <a href="https://github.com/kaaangumus">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-kaaangumus-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <img alt="Focus" src="https://img.shields.io/badge/focus-Active%20Directory%20%7C%20Web%20Security-ff4fd8?style=for-the-badge">
   <img alt="OS" src="https://img.shields.io/badge/lab-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 </p>
 
 ---
 
-## About
+## 🛡️ About
 
 I focus on offensive security with a practical, hands-on mindset. My work is shaped around careful enumeration, realistic attack paths, clear documentation, and building small tools that make security testing faster.
 
@@ -24,7 +27,7 @@ I like turning repeated manual work into simple tools, labs, and notes that can 
 
 ---
 
-## Focus Areas
+## 🎯 Focus Areas
 
 ```text
 Active Directory Security  ·  Web Application Security  ·  Internal Pentesting
@@ -34,19 +37,19 @@ Security Tooling           ·  Lab Building              ·  Practical Research
 
 ---
 
-## Featured Projects
+## 🧰 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [palm](https://github.com/kaaangumus/palm) | Bug bounty subdomain recon pre-filter for live and takeover checks. | Go |
-| [montana-framework](https://github.com/kaaangumus/montana-framework) | Searchsploit-like local exploit search tool for Kali/Linux. | Go |
-| [flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab) | Deliberately vulnerable Flask SSTI lab for local cybersecurity training. | Flask |
-| [nhc](https://github.com/kaaangumus/nhc) | Hash analysis and cracking utility for lab workflows. | Python |
-| [SFounder](https://github.com/kaaangumus/SFounder) | Webshell discovery helper for authorized review scenarios. | Python |
+| [palm](https://github.com/kaaangumus/palm) | Bug bounty subdomain recon pre-filter for live and takeover checks. | <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> |
+| [montana-framework](https://github.com/kaaangumus/montana-framework) | Searchsploit-like local exploit search tool for Kali/Linux. | <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> |
+| [flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab) | Deliberately vulnerable Flask SSTI lab for local cybersecurity training. | <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> |
+| [nhc](https://github.com/kaaangumus/nhc) | Hash analysis and cracking utility for lab workflows. | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
+| [SFounder](https://github.com/kaaangumus/SFounder) | Webshell discovery helper for authorized review scenarios. | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
 
 ---
 
-## How I Work
+## ⚙️ How I Work
 
 - I prefer realistic scenarios over checklist-only testing.
 - I care about clean notes, reproducible findings, and practical impact.
@@ -56,7 +59,7 @@ Security Tooling           ·  Lab Building              ·  Practical Research
 
 ---
 
-## Tech & Tools
+## 🧪 Tech & Tools
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
@@ -70,7 +73,7 @@ Security Tooling           ·  Lab Building              ·  Practical Research
 
 ---
 
-## GitHub Snapshot
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş GitHub profile details">
@@ -83,10 +86,12 @@ Security Tooling           ·  Lab Building              ·  Practical Research
 
 ---
 
-## Contact
+## ✉️ Contact
 
 <p>
   <a href="https://kaangumus.ninja">kaangumus.ninja</a>
 </p>
 
-> Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly.
+<p align="center">
+  <em>“Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly.”</em>
+</p>
