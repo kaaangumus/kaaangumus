@@ -1,97 +1,70 @@
-<h1 align="center">Kaan Gümüş</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Penetration Tester · Red Teamer · Offensive Security Practitioner</strong>
-</p>
+# Kaan Gümüş
 
-<p align="center">
-  <a href="https://kaangumus.ninja">
-    <img alt="Website" src="https://img.shields.io/badge/website-kaangumus.ninja-00ffc6?style=for-the-badge">
-  </a>
-  <a href="https://github.com/kaaangumus">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-kaaangumus-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-Active%20Directory%20%7C%20Web%20Security-ff4fd8?style=for-the-badge">
-  <img alt="OS" src="https://img.shields.io/badge/lab-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
+**Penetration Tester · Red Teamer · Offensive Security**
 
----
+[![Website](https://img.shields.io/badge/kaangumus.ninja-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://kaangumus.ninja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaangumus/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaaangumus)
 
-## 🛡️ About
+</div>
 
-I focus on offensive security with a practical, hands-on mindset. My work is shaped around careful enumeration, realistic attack paths, clear documentation, and building small tools that make security testing faster.
+I test systems the way an attacker would — with permission, careful enumeration, and honest reporting. My focus is **Active Directory**, **web applications**, and **internal networks**. When a workflow gets repetitive, I turn it into a small Go or Python tool instead of doing it by hand again.
 
-My main areas of interest are Active Directory security, web application testing, internal pentesting, privilege escalation, lateral movement, and bug bounty recon workflows.
-
-I like turning repeated manual work into simple tools, labs, and notes that can be reused in real assessments.
+- **Currently** — building recon and exploitation tooling, mapping AD attack paths, and documenting what I learn in labs.
+- **Open to** — penetration testing and red team engagements, plus collaboration on security tooling.
 
 ---
 
-## 🎯 Focus Areas
+## Focus
 
-```text
-Active Directory Security  ·  Web Application Security  ·  Internal Pentesting
-Privilege Escalation       ·  Lateral Movement          ·  Bug Bounty Recon
-Security Tooling           ·  Lab Building              ·  Practical Research
-```
+**Active Directory** — enumeration, Kerberos abuse, ACL paths, delegation
+**Web applications** — authentication logic, injection, access control, SSRF
+**Internal networks** — privilege escalation, lateral movement, pivoting
+**Recon & tooling** — bug bounty automation, exploit search, lab environments
 
 ---
 
-## 🧰 Featured Projects
+## Selected Work
 
 | Project | Description | Stack |
-|---|---|---|
-| [palm](https://github.com/kaaangumus/palm) | Bug bounty subdomain recon pre-filter for live and takeover checks. | <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> |
-| [montana-framework](https://github.com/kaaangumus/montana-framework) | Searchsploit-like local exploit search tool for Kali/Linux. | <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> |
-| [flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab) | Deliberately vulnerable Flask SSTI lab for local cybersecurity training. | <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> |
-| [nhc](https://github.com/kaaangumus/nhc) | Hash analysis and cracking utility for lab workflows. | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
-| [SFounder](https://github.com/kaaangumus/SFounder) | Webshell discovery helper for authorized review scenarios. | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
+| --- | --- | --- |
+| **[palm](https://github.com/kaaangumus/palm)** | Bug bounty subdomain recon pre-filter for live-host and takeover checks. | `Go` |
+| **[montana-framework](https://github.com/kaaangumus/montana-framework)** | `searchsploit`-style local exploit search for Kali and Linux. | `Go` |
+| **[flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab)** | Deliberately vulnerable Flask app for practicing server-side template injection. | `Python` `Flask` |
+| **[loxs](https://github.com/kaaangumus/loxs)** | JavaFX web vulnerability scanner — SQLi, LFI, CRLF, XSS, open redirect. | `Java` |
+
+Older tools — [`nhc`](https://github.com/kaaangumus/nhc) (hash analysis) and [`SFounder`](https://github.com/kaaangumus/SFounder) (webshell discovery) — are archived but still public.
 
 ---
 
-## ⚙️ How I Work
+## Toolkit
 
-- I prefer realistic scenarios over checklist-only testing.
-- I care about clean notes, reproducible findings, and practical impact.
-- I build small tools when a workflow becomes repetitive.
-- I use labs to understand techniques before applying them in authorized environments.
-- I keep the line clear: only test systems I own or have permission to assess.
-
----
-
-## 🧪 Tech & Tools
-
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+| | |
+| --- | --- |
+| **Offense** | Burp Suite · Nmap · Metasploit · Impacket · BloodHound · Hashcat |
+| **Recon** | subfinder · httpx · ffuf · nuclei · amass |
+| **Build** | Go · Python · Bash · Flask · Git · Docker |
+| **Platform** | Kali Linux · Linux |
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş GitHub profile details">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş GitHub stats" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş repository languages" height="165">
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaangumus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+</div>
 
 ---
 
-## ✉️ Contact
+<div align="center">
 
-<p>
-  <a href="https://kaangumus.ninja">kaangumus.ninja</a>
-</p>
+*"Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly."*
 
-<p align="center">
-  <em>“Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly.”</em>
-</p>
+<sub>All testing is performed only on systems I own or have explicit permission to assess.</sub>
+
+</div>
