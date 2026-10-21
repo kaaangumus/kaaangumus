@@ -1,83 +1,56 @@
-```console
-kaangumus@security:~$ whoami
-Kaan Gümüş
-Offensive Security · Red Team · Web & Active Directory
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="Kaan Gümüş — Offensive Security" width="100%">
+</picture>
+
+### Offensive security practitioner focused on Active Directory, web applications, and internal networks.
+
+I build small tools for the repetitive parts of security assessments — and labs to understand the techniques behind them.
+
+`active directory` · `web security` · `internal pentesting` · `privilege escalation` · `bug bounty recon`
 
 [kaangumus.ninja](https://kaangumus.ninja) · [github.com/kaaangumus](https://github.com/kaaangumus)
 
 ---
 
-## `$ cat about.txt`
+## Currently building
 
-Offensive security practitioner focused on **Active Directory**, **web applications**, and **internal networks**. I care about careful enumeration, realistic attack paths, and clean documentation.
-
-I turn repeated manual work into small tools and labs that hold up in real assessments.
-
-> Enumerate deeply. Document clearly. Automate carefully.
-
----
-
-## `$ cat focus.txt`
+**LOXS 2.1.1** — a JavaFX desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS, and open redirect testing.
 
 ```text
-Active Directory Security
-Web Application Security
-Internal Pentesting
-Privilege Escalation
-Lateral Movement
-Bug Bounty Recon
-Security Tooling & Lab Building
+platforms   Windows MSI · Linux
+reports     HTML · CSV · JSON
+status      released
 ```
+
+[Source](https://github.com/kaaangumus/loxs) · [Download](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1)
 
 ---
 
-## `$ ./loxs --status`
+## Selected work
 
-```console
-PROJECT     LOXS 2.1.1
-TYPE        JavaFX desktop web vulnerability scanner
-CHECKS      SQLi · LFI · CRLF · XSS · Open Redirect
-PLATFORMS   Windows MSI · Linux
-REPORTS     HTML · CSV · JSON
-STATUS      released
-```
-
-[Repository](https://github.com/kaaangumus/loxs) · [Release notes](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1)
-
----
-
-## `$ ls -la ~/projects`
-
-| Project | Stack | Description |
+| Project | What it does | Stack |
 |:--|:--|:--|
-| [`loxs`](https://github.com/kaaangumus/loxs) | `Java` | Desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirects. |
-| [`palm`](https://github.com/kaaangumus/palm) | `Go` | Bug bounty subdomain recon pre-filter for live hosts and takeover checks. |
-| [`montana-framework`](https://github.com/kaaangumus/montana-framework) | `Go` | Searchsploit-like local exploit search tool for Kali/Linux. |
-| [`flask-ssti-lab`](https://github.com/kaaangumus/flask-ssti-lab) | `Python` | Deliberately vulnerable Flask SSTI lab for local training. |
-| [`nhc`](https://github.com/kaaangumus/nhc) | `Python` | Hash analysis and cracking utility for lab workflows. |
-| [`SFounder`](https://github.com/kaaangumus/SFounder) | `Python` | Webshell discovery helper for authorized review scenarios. |
+| **[LOXS](https://github.com/kaaangumus/loxs)** | Desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirects. | `Java` `JavaFX` |
+| **[palm](https://github.com/kaaangumus/palm)** | Bug bounty subdomain recon pre-filter for live hosts and takeover checks. | `Go` |
+| **[montana-framework](https://github.com/kaaangumus/montana-framework)** | Searchsploit-like local exploit search tool for Kali/Linux. | `Go` |
+| **[flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab)** | Deliberately vulnerable Flask SSTI lab for local training. | `Python` |
+| **[nhc](https://github.com/kaaangumus/nhc)** | Hash analysis and cracking utility for lab workflows. | `Python` |
+| **[SFounder](https://github.com/kaaangumus/SFounder)** | Webshell discovery helper for authorized review scenarios. | `Python` |
 
 ---
 
-## `$ cat stack.txt`
+## Toolkit
 
-```text
-languages   Go · Java · JavaFX · Python · Bash
-security    Kali Linux · Burp Suite
-tooling     Linux · Git · Gradle
-```
+**Offensive** — Active Directory · Web applications · Internal networks · Privilege escalation · Lateral movement  
+**Engineering** — Go · Java · JavaFX · Python · Bash  
+**Environment** — Kali Linux · Burp Suite · Git · Gradle
 
 ---
 
-## `$ contact --links`
+## Contact
 
-[kaangumus.ninja](https://kaangumus.ninja) · [github.com/kaaangumus](https://github.com/kaaangumus)
+[Website](https://kaangumus.ninja) · [GitHub](https://github.com/kaaangumus) · [LOXS](https://github.com/kaaangumus/loxs)
 
-```console
-kaangumus@security:~$ exit
-```
-
-<div align="center">
-<sub>Only test systems you own or have written authorization to assess.</sub>
-</div>
+> Only test systems you own or have written authorization to assess.

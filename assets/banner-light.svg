@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-label="Kaan Gümüş — Offensive Security">
+  <rect width="760" height="190" rx="12" fill="#f8fafc"/>
+  <rect x="0.5" y="0.5" width="759" height="189" rx="11.5" fill="none" stroke="#e2e8f0"/>
+  <path d="M0 40 H760" stroke="#e2e8f0"/>
+  <circle cx="24" cy="20" r="4.5" fill="#ef4444"/>
+  <circle cx="42" cy="20" r="4.5" fill="#f59e0b"/>
+  <circle cx="60" cy="20" r="4.5" fill="#22c55e"/>
+  <text x="80" y="25" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="12">kaangumus@security:~</text>
+  <text x="32" y="72" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="13">$ whoami</text>
+  <text x="32" y="118" fill="#0f172a" font-family="Consolas, 'Courier New', monospace" font-size="40" font-weight="700">Kaan Gümüş</text>
+  <text x="32" y="152" fill="#0369a1" font-family="Consolas, 'Courier New', monospace" font-size="17">offensive security · red team</text>
+  <circle cx="716" cy="20" r="4" fill="#16a34a"/>
+</svg>
