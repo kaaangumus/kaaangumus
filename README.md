@@ -22,6 +22,8 @@ My main areas of interest are Active Directory security, web application testing
 
 I like turning repeated manual work into simple tools, labs, and notes that can be reused in real assessments.
 
+**Currently building:** [LOXS 2.1.1](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1) — a JavaFX desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirect testing, packaged for Windows and Linux.
+
 ---
 
 ## Focus Areas
@@ -38,6 +40,7 @@ Security Tooling           ·  Lab Building              ·  Practical Research
 
 | Project | Description | Stack |
 |---|---|---|
+| [loxs](https://github.com/kaaangumus/loxs) | JavaFX desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirect testing. Windows MSI + Linux package. | Java / JavaFX |
 | [palm](https://github.com/kaaangumus/palm) | Bug bounty subdomain recon pre-filter for live and takeover checks. | Go |
 | [montana-framework](https://github.com/kaaangumus/montana-framework) | Searchsploit-like local exploit search tool for Kali/Linux. | Go |
 | [flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab) | Deliberately vulnerable Flask SSTI lab for local cybersecurity training. | Flask |
@@ -62,6 +65,8 @@ Security Tooling           ·  Lab Building              ·  Practical Research
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
