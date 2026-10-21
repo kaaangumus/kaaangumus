@@ -1,97 +1,83 @@
-<h1 align="center">Kaan Gümüş</h1>
+```console
+kaangumus@security:~$ whoami
+Kaan Gümüş
+Offensive Security · Red Team · Web & Active Directory
+```
 
-<p align="center">
-  <strong>Penetration Tester · Red Teamer · Offensive Security Practitioner</strong>
-</p>
-
-<p align="center">
-  <a href="https://kaangumus.ninja">
-    <img alt="Website" src="https://img.shields.io/badge/website-kaangumus.ninja-00ffc6?style=for-the-badge">
-  </a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-Active%20Directory%20%7C%20Web%20Security-ff4fd8?style=for-the-badge">
-  <img alt="OS" src="https://img.shields.io/badge/lab-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
+[kaangumus.ninja](https://kaangumus.ninja) · [github.com/kaaangumus](https://github.com/kaaangumus)
 
 ---
 
-## About
+## `$ cat about.txt`
 
-I focus on offensive security with a practical, hands-on mindset. My work is shaped around careful enumeration, realistic attack paths, clear documentation, and building small tools that make security testing faster.
+Offensive security practitioner focused on **Active Directory**, **web applications**, and **internal networks**. I care about careful enumeration, realistic attack paths, and clean documentation.
 
-My main areas of interest are Active Directory security, web application testing, internal pentesting, privilege escalation, lateral movement, and bug bounty recon workflows.
+I turn repeated manual work into small tools and labs that hold up in real assessments.
 
-I like turning repeated manual work into simple tools, labs, and notes that can be reused in real assessments.
-
-**Currently building:** [LOXS 2.1.1](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1) — a JavaFX desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirect testing, packaged for Windows and Linux.
+> Enumerate deeply. Document clearly. Automate carefully.
 
 ---
 
-## Focus Areas
+## `$ cat focus.txt`
 
 ```text
-Active Directory Security  ·  Web Application Security  ·  Internal Pentesting
-Privilege Escalation       ·  Lateral Movement          ·  Bug Bounty Recon
-Security Tooling           ·  Lab Building              ·  Practical Research
+Active Directory Security
+Web Application Security
+Internal Pentesting
+Privilege Escalation
+Lateral Movement
+Bug Bounty Recon
+Security Tooling & Lab Building
 ```
 
 ---
 
-## Featured Projects
+## `$ ./loxs --status`
 
-| Project | Description | Stack |
-|---|---|---|
-| [loxs](https://github.com/kaaangumus/loxs) | JavaFX desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirect testing. Windows MSI + Linux package. | Java / JavaFX |
-| [palm](https://github.com/kaaangumus/palm) | Bug bounty subdomain recon pre-filter for live and takeover checks. | Go |
-| [montana-framework](https://github.com/kaaangumus/montana-framework) | Searchsploit-like local exploit search tool for Kali/Linux. | Go |
-| [flask-ssti-lab](https://github.com/kaaangumus/flask-ssti-lab) | Deliberately vulnerable Flask SSTI lab for local cybersecurity training. | Flask |
-| [nhc](https://github.com/kaaangumus/nhc) | Hash analysis and cracking utility for lab workflows. | Python |
-| [SFounder](https://github.com/kaaangumus/SFounder) | Webshell discovery helper for authorized review scenarios. | Python |
+```console
+PROJECT     LOXS 2.1.1
+TYPE        JavaFX desktop web vulnerability scanner
+CHECKS      SQLi · LFI · CRLF · XSS · Open Redirect
+PLATFORMS   Windows MSI · Linux
+REPORTS     HTML · CSV · JSON
+STATUS      released
+```
 
----
-
-## How I Work
-
-- I prefer realistic scenarios over checklist-only testing.
-- I care about clean notes, reproducible findings, and practical impact.
-- I build small tools when a workflow becomes repetitive.
-- I use labs to understand techniques before applying them in authorized environments.
-- I keep the line clear: only test systems I own or have permission to assess.
+[Repository](https://github.com/kaaangumus/loxs) · [Release notes](https://github.com/kaaangumus/loxs/releases/tag/v2.1.1)
 
 ---
 
-## Tech & Tools
+## `$ ls -la ~/projects`
 
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+| Project | Stack | Description |
+|:--|:--|:--|
+| [`loxs`](https://github.com/kaaangumus/loxs) | `Java` | Desktop web vulnerability scanner for SQLi, LFI, CRLF, XSS and open redirects. |
+| [`palm`](https://github.com/kaaangumus/palm) | `Go` | Bug bounty subdomain recon pre-filter for live hosts and takeover checks. |
+| [`montana-framework`](https://github.com/kaaangumus/montana-framework) | `Go` | Searchsploit-like local exploit search tool for Kali/Linux. |
+| [`flask-ssti-lab`](https://github.com/kaaangumus/flask-ssti-lab) | `Python` | Deliberately vulnerable Flask SSTI lab for local training. |
+| [`nhc`](https://github.com/kaaangumus/nhc) | `Python` | Hash analysis and cracking utility for lab workflows. |
+| [`SFounder`](https://github.com/kaaangumus/SFounder) | `Python` | Webshell discovery helper for authorized review scenarios. |
 
 ---
 
-## GitHub Snapshot
+## `$ cat stack.txt`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş GitHub profile details">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş GitHub stats" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaaangumus&theme=tokyonight" alt="Kaan Gümüş repository languages" height="165">
-</p>
+```text
+languages   Go · Java · JavaFX · Python · Bash
+security    Kali Linux · Burp Suite
+tooling     Linux · Git · Gradle
+```
 
 ---
 
-## Contact
+## `$ contact --links`
 
-<p>
-  <a href="https://kaangumus.ninja">kaangumus.ninja</a>
-</p>
+[kaangumus.ninja](https://kaangumus.ninja) · [github.com/kaaangumus](https://github.com/kaaangumus)
 
-> Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly.
+```console
+kaangumus@security:~$ exit
+```
+
+<div align="center">
+<sub>Only test systems you own or have written authorization to assess.</sub>
+</div>
