@@ -125,8 +125,6 @@ I test systems the way an attacker would — with permission, careful enumeratio
 [![Website](https://img.shields.io/badge/Let's%20talk-kaangumus.ninja-0E7490?style=for-the-badge&logo=firefox&logoColor=white)](https://kaangumus.ninja)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaangumus/)
 
-<sub>All testing is performed only on systems I own or have explicit permission to assess.</sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" alt="footer" />
