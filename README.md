@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kaan GÃ¼mÃ¼ÅŸ â€” Penetration Tester, Red Teamer" />
+<img src="assets/banner.svg" width="100%" alt="Kaan Gümüş — Penetration Tester, Red Teamer" />
 
 <img src="assets/motto.svg" width="880" alt="cybersecurity expert by day, vigilante hacker by night." />
 
@@ -8,7 +8,7 @@
 
 I work across **Active Directory**, **web applications** and **internal networks**. When a step repeats often enough, it becomes a small Go or Python tool.
 
-**Focus** â€” Active Directory Â· Web application security Â· Internal networks Â· SOC Â· Digital forensics
+**Focus** — Active Directory · Web application security · Internal networks · SOC · Digital forensics
 
 ---
 
@@ -53,7 +53,7 @@ I work across **Active Directory**, **web applications** and **internal networks
 &nbsp;
 <a href="https://www.virustotal.com" title="VirusTotal"><img src="assets/tile-virustotal.svg" height="52" alt="VirusTotal" /></a>
 
-**Stack** â€” Linux Â· Kali Â· Go Â· Python Â· Bash Â· Flask Â· Git Â· Docker
+**Stack** — Linux · Kali · Go · Python · Bash · Flask · Git · Docker
 
 </div>
 
@@ -77,4 +77,3 @@ I work across **Active Directory**, **web applications** and **internal networks
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" alt="footer" />
-
