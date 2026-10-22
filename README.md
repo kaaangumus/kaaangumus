@@ -15,7 +15,7 @@
 
 <br/>
 
-Penetration tester working across Active Directory, web applications and internal networks. I automate repetitive testing with small Go and Python tools, and document findings clearly enough to act on.
+*cybersecurity expert by day, vigilante hacker by night.*
 
 ---
 
