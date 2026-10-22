@@ -1,39 +1,47 @@
 # Kaan Gümüş
 
-**Penetration tester · Red team operator**
+`penetration tester / red team operator`
 
-I work across Active Directory, web applications and internal networks. Most of what I do starts with careful enumeration and ends with a report someone can act on — and when a step repeats often enough, it becomes a small Go or Python tool.
+```text
+$ cat about.txt
+Active Directory, web applications and internal networks.
+Repeated work becomes a small Go or Python tool.
+```
 
----
+## $ ls projects/
 
-## 01 — Selected work
+**[palm](https://github.com/kaaangumus/palm)** `go` — subdomain recon pre-filter for bug bounty: keeps the live hosts and flags takeover candidates.
 
-**[palm](https://github.com/kaaangumus/palm)**  
-Subdomain recon pre-filter for bug bounty: keeps the live hosts and flags takeover candidates. `Go`
+**[montana-framework](https://github.com/kaaangumus/montana-framework)** `go` — local exploit search for Kali and Linux, in the spirit of searchsploit.
 
-**[montana-framework](https://github.com/kaaangumus/montana-framework)**  
-Local exploit search for Kali and Linux, in the spirit of searchsploit. `Go`
+## $ cat focus.txt
 
-## 02 — Focus
+```text
+red team operations        web application testing
+active directory           c2 infrastructure
+av / edr evasion           soc & digital forensics
+```
 
-Red team operations · Web application testing · Active Directory attack and defense · C2 infrastructure · AV/EDR evasion · SOC and digital forensics
+## $ cat research.log
 
-## 03 — Toolkit
+- [CVE-2023-3651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3651) — SQL injection, Digital Ant e-commerce
+- [CVE-2023-3652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3652) — reflected XSS, Digital Ant e-commerce
+- [CVE-2024-2010](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2010) — reflected XSS, TE Informatics V5
 
-**Offense** — Burp Suite, BloodHound, NetExec, palm  
-**Defense** — Splunk, Wireshark, VirusTotal  
-**Stack** — Linux, Kali, Go, Python, Bash, Flask, Git, Docker
+## $ cat toolkit.txt
 
-## 04 — Research
+```text
+offense  burp suite · bloodhound · netexec · palm
+defense  splunk · wireshark · virustotal
+stack    linux · kali · go · python · bash · flask
+         git · docker
+```
 
-- [CVE-2023-3651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3651) — SQL injection in Digital Ant e-commerce software
-- [CVE-2023-3652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3652) — reflected XSS in the same product
-- [CVE-2024-2010](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2010) — reflected XSS in TE Informatics V5
+## $ cat contact.txt
 
-## 05 — Contact
+[kaangumus.ninja](https://kaangumus.ninja) · [LinkedIn](https://www.linkedin.com/in/kaaangumus/) · [GitHub](https://github.com/kaaangumus)
 
-Writing at [kaangumus.ninja](https://kaangumus.ninja) · [LinkedIn](https://www.linkedin.com/in/kaaangumus/) · [GitHub](https://github.com/kaaangumus)
-
-<br/>
-
-> *cybersecurity expert by day, vigilante hacker by night.*
+```text
+$ echo $MOTTO
+cybersecurity expert by day, vigilante hacker by night.
+```
