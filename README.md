@@ -45,8 +45,6 @@ I work across **Active Directory**, **web applications** and **internal networks
 
 <div align="center">
 
-<img src="assets/c-offense.svg" alt="offense" />
-
 <a href="https://portswigger.net/burp" title="Burp Suite"><img src="assets/tile-burp.svg" height="52" alt="Burp Suite" /></a>
 &nbsp;
 <a href="https://bloodhound.specterops.io" title="BloodHound"><img src="assets/tile-bloodhound.svg" height="52" alt="BloodHound" /></a>
@@ -54,16 +52,34 @@ I work across **Active Directory**, **web applications** and **internal networks
 <a href="https://github.com/Pennyw0rth/NetExec" title="NetExec (nxc)"><img src="assets/tile-nxc.svg" height="52" alt="NetExec" /></a>
 &nbsp;
 <a href="https://github.com/kaaangumus/palm" title="palm"><img src="assets/tile-palm.svg" height="52" alt="palm" /></a>
-
-<img src="assets/c-defense.svg" alt="defense" />
-
+&nbsp;
 <a href="https://www.splunk.com" title="Splunk"><img src="assets/tile-splunk.svg" height="52" alt="Splunk" /></a>
 &nbsp;
 <a href="https://www.wireshark.org" title="Wireshark"><img src="assets/tile-wireshark.svg" height="52" alt="Wireshark" /></a>
 &nbsp;
 <a href="https://www.virustotal.com" title="VirusTotal"><img src="assets/tile-virustotal.svg" height="52" alt="VirusTotal" /></a>
 
-**Stack** — Linux · Kali · Go · Python · Bash · Flask · Git · Docker
+</div>
+
+<img src="assets/h-stack.svg" alt="Stack" />
+
+<div align="center">
+
+<a href="https://www.kernel.org" title="Linux"><img src="assets/s-linux.svg" height="52" alt="Linux" /></a>
+&nbsp;
+<a href="https://www.kali.org" title="Kali Linux"><img src="assets/s-kali.svg" height="52" alt="Kali Linux" /></a>
+&nbsp;
+<a href="https://go.dev" title="Go"><img src="assets/s-go.svg" height="52" alt="Go" /></a>
+&nbsp;
+<a href="https://www.python.org" title="Python"><img src="assets/s-python.svg" height="52" alt="Python" /></a>
+&nbsp;
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="assets/s-bash.svg" height="52" alt="Bash" /></a>
+&nbsp;
+<a href="https://flask.palletsprojects.com" title="Flask"><img src="assets/s-flask.svg" height="52" alt="Flask" /></a>
+&nbsp;
+<a href="https://git-scm.com" title="Git"><img src="assets/s-git.svg" height="52" alt="Git" /></a>
+&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="assets/s-docker.svg" height="52" alt="Docker" /></a>
 
 </div>
 
