@@ -61,7 +61,7 @@ I work across **Active Directory**, **web applications** and **internal networks
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=kaaangumus&hide_border=true&border_radius=12&background=0B0F18&ring=22D3EE&fire=D946EF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 
 <br/>
