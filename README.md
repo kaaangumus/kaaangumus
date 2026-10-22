@@ -18,8 +18,7 @@
 
 I test systems the way an attacker would — with permission, careful enumeration, and honest reporting. When a workflow gets repetitive, I turn it into a small Go or Python tool instead of doing it by hand again.
 
-> **Currently** — building recon and exploitation tooling, mapping AD attack paths, and documenting what I learn in labs.
->
+> **Currently** — building recon and exploitation tooling, mapping AD attack paths, and documenting what I learn in labs.<br/>
 > **Open to** — penetration testing and red team engagements, plus collaboration on security tooling.
 
 ---
