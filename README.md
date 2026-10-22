@@ -29,11 +29,11 @@ I test systems the way an attacker would — with permission, careful enumeratio
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-1D4ED8?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/Web%20Security-BE123C?style=for-the-badge)
 ![Internal Pentesting](https://img.shields.io/badge/Internal%20Pentesting-6D28D9?style=for-the-badge)
-![Privilege Escalation](https://img.shields.io/badge/Privilege%20Escalation-B45309?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-B45309?style=for-the-badge)
 
 <br/>
 
-![Lateral Movement](https://img.shields.io/badge/Lateral%20Movement-C2410C?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics-C2410C?style=for-the-badge)
 ![Bug Bounty Recon](https://img.shields.io/badge/Bug%20Bounty%20Recon-047857?style=for-the-badge)
 ![Security Tooling](https://img.shields.io/badge/Security%20Tooling-0E7490?style=for-the-badge)
 
