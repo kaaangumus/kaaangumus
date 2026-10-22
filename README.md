@@ -4,8 +4,6 @@
 
 I work across Active Directory, web applications and internal networks. Most of what I do starts with careful enumeration and ends with a report someone can act on — and when a step repeats often enough, it becomes a small Go or Python tool.
 
-[kaangumus.ninja](https://kaangumus.ninja) · [LinkedIn](https://www.linkedin.com/in/kaaangumus/) · [GitHub](https://github.com/kaaangumus)
-
 ---
 
 ## 01 — Selected work
