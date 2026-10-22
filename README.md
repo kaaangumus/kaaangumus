@@ -79,11 +79,11 @@ I test systems the way an attacker would — with permission, careful enumeratio
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.splunk.com" title="Splunk">
-  <img src="https://cdn.simpleicons.org/splunk/38BDF8" height="40" alt="Splunk" />
+  <img src="https://cdn.simpleicons.org/splunk/38BDF8" height="56" alt="Splunk" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.wireshark.org" title="Wireshark">
-  <img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="40" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="44" alt="Wireshark" />
 </a>
 
 </div>
