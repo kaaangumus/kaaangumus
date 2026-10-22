@@ -1,47 +1,85 @@
-# Kaan Gümüş
+<div align="center">
 
-`penetration tester / red team operator`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Kaan%20G%C3%BCm%C3%BC%C5%9F&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=58&descSize=18" width="100%" alt="Kaan Gümüş" />
 
-```text
-$ cat about.txt
-Active Directory, web applications and internal networks.
-Repeated work becomes a small Go or Python tool.
-```
+<img src="assets/motto.svg" width="880" alt="cybersecurity expert by day, vigilante hacker by night." />
 
-## $ ls projects/
+</div>
 
-**[palm](https://github.com/kaaangumus/palm)** `go` — subdomain recon pre-filter for bug bounty: keeps the live hosts and flags takeover candidates.
+I work across **Active Directory**, **web applications** and **internal networks**. When a step repeats often enough, it becomes a small Go or Python tool.
 
-**[montana-framework](https://github.com/kaaangumus/montana-framework)** `go` — local exploit search for Kali and Linux, in the spirit of searchsploit.
+**Focus** — Active Directory · Web application security · Internal networks · SOC · Digital forensics
 
-## $ cat focus.txt
+---
 
-```text
-red team operations        web application testing
-active directory           c2 infrastructure
-av / edr evasion           soc & digital forensics
-```
+## Selected work
 
-## $ cat research.log
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kaaangumus/palm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaaangumus&repo=palm&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" height="170" alt="palm" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kaaangumus/montana-framework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaaangumus&repo=montana-framework&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" height="170" alt="montana-framework" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
-- [CVE-2023-3651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3651) — SQL injection, Digital Ant e-commerce
-- [CVE-2023-3652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3652) — reflected XSS, Digital Ant e-commerce
-- [CVE-2024-2010](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2010) — reflected XSS, TE Informatics V5
+## Toolkit
 
-## $ cat toolkit.txt
+<div align="center">
 
-```text
-offense  burp suite · bloodhound · netexec · palm
-defense  splunk · wireshark · virustotal
-stack    linux · kali · go · python · bash · flask
-         git · docker
-```
+*offense*
 
-## $ cat contact.txt
+<a href="https://portswigger.net/burp" title="Burp Suite"><img src="assets/tile-burp.svg" height="52" alt="Burp Suite" /></a>
+&nbsp;
+<a href="https://bloodhound.specterops.io" title="BloodHound"><img src="assets/tile-bloodhound.svg" height="52" alt="BloodHound" /></a>
+&nbsp;
+<a href="https://github.com/Pennyw0rth/NetExec" title="NetExec (nxc)"><img src="assets/tile-nxc.svg" height="52" alt="NetExec" /></a>
+&nbsp;
+<a href="https://github.com/kaaangumus/palm" title="palm"><img src="assets/tile-palm.svg" height="52" alt="palm" /></a>
 
-[kaangumus.ninja](https://kaangumus.ninja) · [LinkedIn](https://www.linkedin.com/in/kaaangumus/) · [GitHub](https://github.com/kaaangumus)
+*defense*
 
-```text
-$ echo $MOTTO
-cybersecurity expert by day, vigilante hacker by night.
-```
+<a href="https://www.splunk.com" title="Splunk"><img src="assets/tile-splunk.svg" height="52" alt="Splunk" /></a>
+&nbsp;
+<a href="https://www.wireshark.org" title="Wireshark"><img src="assets/tile-wireshark.svg" height="52" alt="Wireshark" /></a>
+&nbsp;
+<a href="https://www.virustotal.com" title="VirusTotal"><img src="assets/tile-virustotal.svg" height="52" alt="VirusTotal" /></a>
+
+**Stack** — Linux · Kali · Go · Python · Bash · Flask · Git · Docker
+
+</div>
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=kaaangumus&hide_border=true&border_radius=12&background=0B0F18&ring=22D3EE&fire=D946EF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaangumus&layout=compact&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly."*
+
+[![Website](https://img.shields.io/badge/kaangumus.ninja-0E7490?style=for-the-badge&logo=firefox&logoColor=white)](https://kaangumus.ninja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaangumus/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaaangumus)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" alt="footer" />
