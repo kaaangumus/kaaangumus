@@ -72,11 +72,11 @@ I test systems the way an attacker would — with permission, careful enumeratio
 <br/><br/>
 
 <a href="https://portswigger.net/burp" title="Burp Suite">
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="44" alt="Burp Suite" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://bloodhound.specterops.io" title="BloodHound">
-  <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/logo-red-transparent-logo-only.svg" height="48" alt="BloodHound" />
+  <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/logo-red-transparent-logo-only.svg" height="52" alt="BloodHound" />
 </a>
 
 </div>
