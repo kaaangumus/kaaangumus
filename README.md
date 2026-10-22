@@ -6,9 +6,19 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/k-about.svg" alt="About" />
+
 I work across **Active Directory**, **web applications** and **internal networks**. When a step repeats often enough, it becomes a small Go or Python tool.
 
-**Focus** — Active Directory · Web application security · Internal networks · SOC · Digital forensics
+<img src="assets/p-ad.svg" alt="Active Directory" />
+<img src="assets/p-web.svg" alt="Web application security" />
+<img src="assets/p-internal.svg" alt="Internal networks" />
+<img src="assets/p-soc.svg" alt="SOC" />
+<img src="assets/p-forensics.svg" alt="Digital forensics" />
+
+</div>
 
 ---
 
