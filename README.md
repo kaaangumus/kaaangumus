@@ -66,39 +66,22 @@
 ## Toolkit
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,go,python,bash,flask,git,docker" alt="Core stack" />
-
-<br/><br/>
-
-<a href="https://portswigger.net/burp" title="Burp Suite">
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" />
-</a>
+<sub><b>STACK</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,go,python,bash,flask,git,docker" height="44" alt="Linux, Kali, Go, Python, Bash, Flask, Git, Docker" /><br/><br/>
+<sub><b>OFFENSE</b></sub><br/>
+<a href="https://portswigger.net/burp" title="Burp Suite"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="44" alt="Burp Suite" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bloodhound.specterops.io" title="BloodHound">
-  <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/logo-red-transparent-logo-only.svg" height="48" alt="BloodHound" />
-</a>
+<a href="https://bloodhound.specterops.io" title="BloodHound"><img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/logo-red-transparent-logo-only.svg" height="44" alt="BloodHound" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Pennyw0rth/NetExec" title="NetExec (nxc)">
-  <img src="assets/nxc.svg" height="44" alt="NetExec" />
-</a>
+<a href="https://github.com/Pennyw0rth/NetExec" title="NetExec (nxc)"><img src="assets/nxc.svg" height="44" alt="NetExec" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kaaangumus/palm" title="palm">
-  <img src="assets/palm.svg" height="44" alt="palm" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.splunk.com" title="Splunk">
-  <img src="https://cdn.simpleicons.org/splunk/38BDF8" height="56" alt="Splunk" />
-</a>
+<a href="https://github.com/kaaangumus/palm" title="palm"><img src="assets/palm.svg" height="44" alt="palm" /></a><br/><br/>
+<sub><b>DEFENSE</b></sub><br/>
+<a href="https://www.splunk.com" title="Splunk"><img src="https://cdn.simpleicons.org/splunk/38BDF8" height="44" alt="Splunk" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.wireshark.org" title="Wireshark">
-  <img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="44" alt="Wireshark" />
-</a>
+<a href="https://www.wireshark.org" title="Wireshark"><img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="44" alt="Wireshark" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.virustotal.com" title="VirusTotal">
-  <img src="https://cdn.simpleicons.org/virustotal/38BDF8" height="42" alt="VirusTotal" />
-</a>
-
+<a href="https://www.virustotal.com" title="VirusTotal"><img src="https://cdn.simpleicons.org/virustotal/38BDF8" height="44" alt="VirusTotal" /></a>
 </div>
 
 ---
