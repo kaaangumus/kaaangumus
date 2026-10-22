@@ -64,17 +64,11 @@ I work across **Active Directory**, **web applications** and **internal networks
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaaangumus&show_icons=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9&icon_color=D946EF" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=kaaangumus&hide_border=true&border_radius=12&background=0B0F18&ring=22D3EE&fire=D946EF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaangumus&layout=compact&hide_border=true&border_radius=12&bg_color=0B0F18&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
-
 </div>
 
 ---
 
 <div align="center">
-
-*"Offensive security is not just finding weaknesses. It is understanding systems deeply enough to explain risk clearly."*
 
 [![Website](https://img.shields.io/badge/kaangumus.ninja-0E7490?style=for-the-badge&logo=firefox&logoColor=white)](https://kaangumus.ninja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaangumus/)
