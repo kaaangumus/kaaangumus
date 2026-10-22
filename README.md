@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kaan Gümüş — Penetration Tester, Red Teamer" />
+<img src="assets/banner.svg" width="100%" alt="Kaan GÃ¼mÃ¼ÅŸ â€” Penetration Tester, Red Teamer" />
 
 <img src="assets/motto.svg" width="880" alt="cybersecurity expert by day, vigilante hacker by night." />
 
@@ -8,11 +8,11 @@
 
 I work across **Active Directory**, **web applications** and **internal networks**. When a step repeats often enough, it becomes a small Go or Python tool.
 
-**Focus** — Active Directory · Web application security · Internal networks · SOC · Digital forensics
+**Focus** â€” Active Directory Â· Web application security Â· Internal networks Â· SOC Â· Digital forensics
 
 ---
 
-## Selected work
+<img src="assets/h-selected.svg" alt="Selected work" />
 
 <div align="center">
 <table>
@@ -31,11 +31,11 @@ I work across **Active Directory**, **web applications** and **internal networks
 </table>
 </div>
 
-## Toolkit
+<img src="assets/h-toolkit.svg" alt="Toolkit" />
 
 <div align="center">
 
-*offense*
+<img src="assets/c-offense.svg" alt="offense" />
 
 <a href="https://portswigger.net/burp" title="Burp Suite"><img src="assets/tile-burp.svg" height="52" alt="Burp Suite" /></a>
 &nbsp;
@@ -45,7 +45,7 @@ I work across **Active Directory**, **web applications** and **internal networks
 &nbsp;
 <a href="https://github.com/kaaangumus/palm" title="palm"><img src="assets/tile-palm.svg" height="52" alt="palm" /></a>
 
-*defense*
+<img src="assets/c-defense.svg" alt="defense" />
 
 <a href="https://www.splunk.com" title="Splunk"><img src="assets/tile-splunk.svg" height="52" alt="Splunk" /></a>
 &nbsp;
@@ -53,11 +53,11 @@ I work across **Active Directory**, **web applications** and **internal networks
 &nbsp;
 <a href="https://www.virustotal.com" title="VirusTotal"><img src="assets/tile-virustotal.svg" height="52" alt="VirusTotal" /></a>
 
-**Stack** — Linux · Kali · Go · Python · Bash · Flask · Git · Docker
+**Stack** â€” Linux Â· Kali Â· Go Â· Python Â· Bash Â· Flask Â· Git Â· Docker
 
 </div>
 
-## GitHub
+<img src="assets/h-github.svg" alt="GitHub" />
 
 <div align="center">
 
@@ -77,3 +77,4 @@ I work across **Active Directory**, **web applications** and **internal networks
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" alt="footer" />
+
