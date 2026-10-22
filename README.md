@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Kaan%20G%C3%BCm%C3%BC%C5%9F&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=58&descSize=18" width="100%" alt="Kaan Gümüş" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=Kaan%20G%C3%BCm%C3%BC%C5%9F&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=58&descSize=18" width="100%" alt="Kaan Gümüş" />
 
 <img src="assets/motto.svg" width="880" alt="cybersecurity expert by day, vigilante hacker by night." />
 
