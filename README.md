@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=Kaan%20G%C3%BCm%C3%BC%C5%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Penetration%20Tester%20%7C%20Red%20Teamer%20%7C%20Offensive%20Security&descAlignY=56&descSize=18" width="100%" alt="Kaan Gümüş" />
 
 <a href="https://github.com/kaaangumus">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=67E8F9&center=true&vCenter=true&random=false&width=680&lines=Active+Directory+Attacks;Web+Application+Pentesting;Privilege+Escalation+%26+Lateral+Movement;Bug+Bounty+Recon;Security+Tooling+in+Go+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=67E8F9&center=true&vCenter=true&random=false&width=680&lines=Active+Directory+Attacks;Web+Application+Pentesting;SOC+%26+Threat+Detection;Digital+Forensics;Bug+Bounty+Recon;Security+Tooling+in+Go+%26+Python" alt="Typing SVG" />
 </a>
 <br/>
 
