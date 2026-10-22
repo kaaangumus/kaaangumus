@@ -86,6 +86,10 @@
 <a href="https://www.wireshark.org" title="Wireshark">
   <img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="44" alt="Wireshark" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.virustotal.com" title="VirusTotal">
+  <img src="https://cdn.simpleicons.org/virustotal/38BDF8" height="42" alt="VirusTotal" />
+</a>
 
 </div>
 
