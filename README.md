@@ -16,21 +16,11 @@
 
 <br/>
 
-```bash
-$ whoami
-kaaangumus  ·  penetration tester / red teamer
-
-$ cat focus.txt
-active directory   ·   web applications   ·   internal networks
-
-$ ./motd
-enumerate deeply. document clearly. automate the repetition.
-```
-
 I test systems the way an attacker would — with permission, careful enumeration, and honest reporting. When a workflow gets repetitive, I turn it into a small Go or Python tool instead of doing it by hand again.
 
-- **Currently** — building recon and exploitation tooling, mapping AD attack paths, and documenting what I learn in labs.
-- **Open to** — penetration testing and red team engagements, plus collaboration on security tooling.
+> **Currently** — building recon and exploitation tooling, mapping AD attack paths, and documenting what I learn in labs.
+>
+> **Open to** — penetration testing and red team engagements, plus collaboration on security tooling.
 
 ---
 
@@ -82,20 +72,13 @@ I test systems the way an attacker would — with permission, careful enumeratio
 
 <br/><br/>
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0E7490?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E7490?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-0E7490?style=flat-square)
-![Impacket](https://img.shields.io/badge/Impacket-0E7490?style=flat-square)
-![BloodHound](https://img.shields.io/badge/BloodHound-0E7490?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-0E7490?style=flat-square)
-
-<br/>
-
-![subfinder](https://img.shields.io/badge/subfinder-6D28D9?style=flat-square)
-![httpx](https://img.shields.io/badge/httpx-6D28D9?style=flat-square)
-![ffuf](https://img.shields.io/badge/ffuf-6D28D9?style=flat-square)
-![nuclei](https://img.shields.io/badge/nuclei-6D28D9?style=flat-square)
-![amass](https://img.shields.io/badge/amass-6D28D9?style=flat-square)
+<a href="https://portswigger.net/burp" title="Burp Suite">
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
+</a>
+&nbsp;&nbsp;
+<a href="https://bloodhound.specterops.io" title="BloodHound">
+  <img src="https://raw.githubusercontent.com/SpecterOps/BloodHound/main/cmd/ui/public/img/logo-red-transparent-logo-only.svg" height="48" alt="BloodHound" />
+</a>
 
 </div>
 
