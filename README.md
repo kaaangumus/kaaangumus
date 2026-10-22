@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### *cybersecurity expert by day, vigilante hacker by night.*
+<img src="assets/motto.svg" alt="cybersecurity expert by day, vigilante hacker by night." width="900" />
 
 </div>
 

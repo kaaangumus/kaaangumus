@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="108" viewBox="0 0 900 108" role="img" aria-label="cybersecurity expert by day, vigilante hacker by night.">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.35" stop-color="#818CF8"/>
+      <stop offset="0.65" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A78BFA" stop-opacity="1"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <text x="450" y="52" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','SFMono-Regular',Consolas,monospace"
+        font-size="25" font-style="italic" fill="url(#grad)" opacity="0.55" filter="url(#glow)"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" repeatCount="indefinite"/>cybersecurity expert by day, vigilante hacker by night.</text>
+
+  <text x="450" y="52" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono','SFMono-Regular',Consolas,monospace"
+        font-size="25" font-style="italic" fill="url(#grad)">cybersecurity expert by day, vigilante hacker by night.</text>
+
+  <rect x="290" y="72" width="320" height="2" rx="1" fill="url(#rule)"/>
+</svg>
