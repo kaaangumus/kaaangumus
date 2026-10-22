@@ -83,7 +83,7 @@
 
 **DEFENSE**
 
-<a href="https://www.splunk.com" title="Splunk"><img src="https://cdn.simpleicons.org/splunk/38BDF8" height="46" alt="Splunk" /></a>
+<a href="https://www.splunk.com" title="Splunk"><img src="https://cdn.simpleicons.org/splunk/38BDF8" height="54" alt="Splunk" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.wireshark.org" title="Wireshark"><img src="https://cdn.simpleicons.org/wireshark/38BDF8" height="44" alt="Wireshark" /></a>
 &nbsp;&nbsp;&nbsp;
