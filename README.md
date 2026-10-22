@@ -5,7 +5,6 @@
 <a href="https://github.com/kaaangumus">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=67E8F9&center=true&vCenter=true&random=false&width=680&lines=Active+Directory+Attacks;Web+Application+Pentesting;Privilege+Escalation+%26+Lateral+Movement;Bug+Bounty+Recon;Security+Tooling+in+Go+%26+Python" alt="Typing SVG" />
 </a>
-
 <br/>
 
 [![Website](https://img.shields.io/badge/kaangumus.ninja-0E7490?style=for-the-badge&logo=firefox&logoColor=white)](https://kaangumus.ninja)
